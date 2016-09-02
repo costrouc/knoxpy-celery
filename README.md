@@ -10,3 +10,5 @@ Interactive demo was made using:
  - PostgreSQL
  - Docker Containers
  - JupyterHUB, oauthentication, DockerSwarm
+
+*Note:* username/passwords/ip/port are all examples
